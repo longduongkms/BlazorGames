@@ -11,7 +11,8 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="Models\Minesweeper" />
+      <Content Remove="Pages\Counter.razor" />
+      <Content Remove="Pages\FetchData.razor" />
     </ItemGroup>
 
 </Project>

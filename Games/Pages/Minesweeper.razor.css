@@ -16,7 +16,7 @@
 }
 
 .minesweeper-board div {
-    background-image: url(../images/minesweeper/sprite100.gif);
+    background-image: url(images/minesweeper/sprite100.gif);
 }
 
 .minesweeper-gamepiece {
